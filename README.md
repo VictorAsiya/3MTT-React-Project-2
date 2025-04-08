@@ -1,3 +1,5 @@
+Do Note that the Code for the Counter App is found in the CounterApp folder, which has been routed to the App.js file
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
